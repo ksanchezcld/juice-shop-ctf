@@ -57,7 +57,7 @@
     "report-dir": "./build/reports/coverage"
   },
   "dependencies": {
-    "joi": "^17.2.0",
+    "joi": "^17.6.1",
     "bcryptjs": "^2.4.3",
     "bluebird": "^3.7.2",
     "colors": "^1.4.0",
